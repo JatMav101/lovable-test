@@ -1,0 +1,2 @@
+# lovable-test
+decorfi.ai
